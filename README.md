@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Invasão Zumbi na Chapada Diamantina](zumbi-rural-3.png)
 
 ## 🎮 Sobre o jogo
@@ -55,3 +56,6 @@ Enviar pelo Google Classroom um arquivo de texto contendo:
 ---
 
 **Boa sorte e bom desenvolvimento!**
+=======
+# ZombieRural
+>>>>>>> 400be9cb1ffbc22d59970afe4478ec4093262131
